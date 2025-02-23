@@ -1,6 +1,6 @@
 # 🎮 Simon Says Game
 
-A fun and interactive **Simon Says Game** built using **HTML, CSS, and JavaScript**. The game tests your memory by making you repeat a sequence of flashing buttons in the correct order. 
+A fun and interactive **Simon Says Game** built using **HTML, CSS, and JavaScript**. The game tests your memory by making you repeat a sequence of flashing buttons in the correct order.   
 
 ## 📌 Features
 - 🔹 **Dynamic Level System** – The sequence increases in difficulty as you progress.
